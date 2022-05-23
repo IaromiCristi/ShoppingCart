@@ -1,0 +1,11 @@
+E:\Programe\Programe C#\Ddroid\Shopping Cart\Shopping Cart\obj\Debug\netcoreapp2.1\Shopping Cart.csprojAssemblyReference.cache
+E:\Programe\Programe C#\Ddroid\Shopping Cart\Shopping Cart\obj\Debug\netcoreapp2.1\Shopping Cart.csproj.CoreCompileInputs.cache
+E:\Programe\Programe C#\Ddroid\Shopping Cart\Shopping Cart\obj\Debug\netcoreapp2.1\Shopping Cart.AssemblyInfoInputs.cache
+E:\Programe\Programe C#\Ddroid\Shopping Cart\Shopping Cart\obj\Debug\netcoreapp2.1\Shopping Cart.AssemblyInfo.cs
+E:\Programe\Programe C#\Ddroid\Shopping Cart\Shopping Cart\bin\Debug\netcoreapp2.1\Shopping Cart.deps.json
+E:\Programe\Programe C#\Ddroid\Shopping Cart\Shopping Cart\bin\Debug\netcoreapp2.1\Shopping Cart.runtimeconfig.json
+E:\Programe\Programe C#\Ddroid\Shopping Cart\Shopping Cart\bin\Debug\netcoreapp2.1\Shopping Cart.runtimeconfig.dev.json
+E:\Programe\Programe C#\Ddroid\Shopping Cart\Shopping Cart\bin\Debug\netcoreapp2.1\Shopping Cart.dll
+E:\Programe\Programe C#\Ddroid\Shopping Cart\Shopping Cart\bin\Debug\netcoreapp2.1\Shopping Cart.pdb
+E:\Programe\Programe C#\Ddroid\Shopping Cart\Shopping Cart\obj\Debug\netcoreapp2.1\Shopping Cart.dll
+E:\Programe\Programe C#\Ddroid\Shopping Cart\Shopping Cart\obj\Debug\netcoreapp2.1\Shopping Cart.pdb
